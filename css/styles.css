@@ -188,6 +188,7 @@ p {
 .features-list {
     gap: 24px;
     display: flex;
+}
 
     .features-list-item {
         width: calc((100% -3 * 24px) / 4);
@@ -234,7 +235,6 @@ p {
     .team-list {
         display: flex;
         gap: 24px;
-        width: calc((100% - 72px) / 4);
     }
 
 
@@ -245,7 +245,9 @@ p {
     }
 
     .team-list-item {
-        background-color: #FFFFFF;
+width: calc((100% - 72px) / 4);
+border-radius: 0px 0px 4px 4px;
+background-color: #fff;
     }
 
     .team-item-image {}
