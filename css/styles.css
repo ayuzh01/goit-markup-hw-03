@@ -189,7 +189,7 @@ p {
     gap: 24px;
     display: flex;
     padding-left: 0; 
-    margin: 0;
+    margin: 0; 
 }
 
     .features-list-item {
@@ -237,6 +237,8 @@ p {
     .team-list {
         display: flex;
         gap: 24px;
+        margin: 0; 
+        padding-left: 0
     }
 
 
