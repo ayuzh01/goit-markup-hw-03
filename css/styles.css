@@ -85,6 +85,7 @@ p {
     color: #2e2f42;
     padding: 24px 0;
     margin-right: 0;
+    display: block;
 }
 
 .header-menu-item:hover,
